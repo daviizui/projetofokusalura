@@ -20,7 +20,7 @@
 
 
 # #acesso-ao-projeto
-<a href="https://projetofokusalura.vercel.app/">Clique aqui<a/>
+<a href="https://projetofokusalura.vercel.app/" target="_blank">Clique aqui<a/>
 
 
 
